@@ -1,2 +1,2 @@
 # SpringFrameworkLearnings
-Aggregation of projects relted to learning Java Spring and Spring Boot
+Aggregation of projects related to learning Java Spring and Spring Boot
